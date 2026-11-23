@@ -29,7 +29,7 @@ I've been tinkering with language models since 2019, so the magic trick wore off
 #### Products & Tools
 
 - **[firesight-v2](https://github.com/joey12725/firesight-v2)** — Monte Carlo early-retirement planner rewritten from scratch in Rust → WebAssembly. Simulates 100,000 whole household lifetimes in ~6 seconds in your browser with real 2026 tax law, paired scenarios, and a Claude assistant that isn't allowed to make up numbers. ([Try it live](https://firesight-v2.vercel.app))
-- **[in-the-know](https://github.com/joey12725/in-the-know)** — A weekly local-events newsletter written for one reader at a time. Reply "less rodeo stuff" and next week's issue actually listens. ([Live](https://itk-nine.vercel.app))
+- **[in-the-know](https://github.com/joey12725/in-the-know)** — A weekly local-events newsletter written for one reader at a time. Reply "less rodeo stuff" and next week's issue actually listens.
 - **[3d-print-visualizer](https://github.com/joey12725/3d-print-visualizer)** — Preview sliced G-code in 3D on your phone, with print time and filament grams per color. ([Live](https://sleek-nirvana-3mxh.here.now/))
 - **[arrdio](https://github.com/joey12725/arrdio)** — Self-hosted ebook, audiobook, and manga request manager for the `*arr` stack, written in Go.
 
