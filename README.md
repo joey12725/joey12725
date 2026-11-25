@@ -17,7 +17,7 @@ I've been tinkering with language models since 2019, so the magic trick wore off
 
 #### Agents & Memory
 
-- **Throughline** *(private repo for now)* — My current obsession: a self-hosted personal data hub on PostgreSQL + pgvector that ingests messages, email, voice transcripts, calendar, health, Spotify, Plex, Reddit, YouTube, and more via HTTP plugins into one immutable, privacy-gated database built for AI agents to search and verify.
+- **[throughline](https://github.com/joey12725/throughline)** — My current obsession: a self-hosted personal data hub on PostgreSQL + pgvector that ingests messages, email, voice transcripts, calendar, health, Spotify, Plex, Reddit, YouTube, and more via HTTP plugins into one immutable, privacy-gated database built for AI agents to search and verify. ([Overview](https://regal-jubilee-fb8x.here.now/))
 - **[directive](https://github.com/joey12725/directive)** — An AI engineering org running on a real project board (Plane). A PM agent breaks goals into stories and spends your Claude Code, Codex, Gemini CLI, and OpenCode budgets like a team.
 - **[peerpass](https://github.com/joey12725/peerpass)** — Scoped, expiring, revocable passes so other people's agents can talk to yours over A2A, MCP, Slack, Discord, Telegram, or Matrix without ever holding your keys.
 - **[inbox-recall](https://github.com/joey12725/inbox-recall)** — Hybrid semantic + keyword search over every chat you've ever had (WhatsApp, iMessage, Signal, Instagram, and more) served to your agents over MCP.
